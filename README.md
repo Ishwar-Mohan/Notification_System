@@ -1,10 +1,10 @@
-# 📨 Notification System – Java Backend Developer Assignment
+# Notification System – Java Backend Developer Assignment
 
 This project implements an Event Notification System capable of handling different types of events (EMAIL, SMS, PUSH) using multithreading, REST APIs, and Docker. The system simulates asynchronous event processing and calls a callback URL upon completion.
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - Java 17  
 - Spring Boot 3.x  
@@ -14,7 +14,7 @@ This project implements an Event Notification System capable of handling differe
 
 ---
 
-## 🧪 Features
+## Features
 
 - REST API to accept and queue event requests  
 - Event processing via separate threads per event type  
@@ -25,7 +25,7 @@ This project implements an Event Notification System capable of handling differe
 
 ---
 
-## 📦 API Endpoint
+## API Endpoint
 
 **POST** `/api/events`
 
